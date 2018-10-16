@@ -1,0 +1,12 @@
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\bin\Debug\Audio Capture.exe.config
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\bin\Debug\Audio Capture.exe
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\bin\Debug\Audio Capture.pdb
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio Capture.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio_Capture.Form1.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio_Capture.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio Capture.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio Capture.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio Capture.exe
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\obj\Debug\Audio Capture.pdb
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\bin\Debug\NAudio.dll
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\Audio Capture\Audio Capture\bin\Debug\NAudio.xml
